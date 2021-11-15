@@ -1,0 +1,17 @@
+C:\Users\artur\source\repos\RomanConversion\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\artur\source\repos\RomanConversion\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\artur\source\repos\RomanConversion\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\artur\source\repos\RomanConversion\UnitTestProject1\bin\Debug\UnitTestProject1.dll
+C:\Users\artur\source\repos\RomanConversion\UnitTestProject1\bin\Debug\UnitTestProject1.pdb
+C:\Users\artur\source\repos\RomanConversion\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\artur\source\repos\RomanConversion\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\artur\source\repos\RomanConversion\UnitTestProject1\bin\Debug\RomanConversion.exe
+C:\Users\artur\source\repos\RomanConversion\UnitTestProject1\bin\Debug\RomanConversion.pdb
+C:\Users\artur\source\repos\RomanConversion\UnitTestProject1\bin\Debug\RomanConversion.exe.config
+C:\Users\artur\source\repos\RomanConversion\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\artur\source\repos\RomanConversion\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\artur\source\repos\RomanConversion\UnitTestProject1\obj\Debug\UnitTesting.csprojAssemblyReference.cache
+C:\Users\artur\source\repos\RomanConversion\UnitTestProject1\obj\Debug\UnitTesting.csproj.CoreCompileInputs.cache
+C:\Users\artur\source\repos\RomanConversion\UnitTestProject1\obj\Debug\UnitTesting.csproj.CopyComplete
+C:\Users\artur\source\repos\RomanConversion\UnitTestProject1\obj\Debug\UnitTestProject1.dll
+C:\Users\artur\source\repos\RomanConversion\UnitTestProject1\obj\Debug\UnitTestProject1.pdb

@@ -1,0 +1,7 @@
+C:\Users\artur\source\repos\RomanConversion\RomanConversion\bin\Debug\RomanConversion.exe.config
+C:\Users\artur\source\repos\RomanConversion\RomanConversion\bin\Debug\RomanConversion.exe
+C:\Users\artur\source\repos\RomanConversion\RomanConversion\bin\Debug\RomanConversion.pdb
+C:\Users\artur\source\repos\RomanConversion\RomanConversion\obj\Debug\RomanConversion.csprojAssemblyReference.cache
+C:\Users\artur\source\repos\RomanConversion\RomanConversion\obj\Debug\RomanConversion.csproj.CoreCompileInputs.cache
+C:\Users\artur\source\repos\RomanConversion\RomanConversion\obj\Debug\RomanConversion.exe
+C:\Users\artur\source\repos\RomanConversion\RomanConversion\obj\Debug\RomanConversion.pdb

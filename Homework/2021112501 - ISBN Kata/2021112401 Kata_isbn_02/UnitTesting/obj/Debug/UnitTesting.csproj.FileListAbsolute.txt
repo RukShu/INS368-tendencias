@@ -1,0 +1,17 @@
+C:\Users\artur\source\repos\20211124_Kata_isbn_02\UnitTesting\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\artur\source\repos\20211124_Kata_isbn_02\UnitTesting\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\artur\source\repos\20211124_Kata_isbn_02\UnitTesting\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\artur\source\repos\20211124_Kata_isbn_02\UnitTesting\bin\Debug\UnitTesting.dll
+C:\Users\artur\source\repos\20211124_Kata_isbn_02\UnitTesting\bin\Debug\UnitTesting.pdb
+C:\Users\artur\source\repos\20211124_Kata_isbn_02\UnitTesting\bin\Debug\20211124_Kata_isbn_02.exe
+C:\Users\artur\source\repos\20211124_Kata_isbn_02\UnitTesting\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\artur\source\repos\20211124_Kata_isbn_02\UnitTesting\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\artur\source\repos\20211124_Kata_isbn_02\UnitTesting\bin\Debug\20211124_Kata_isbn_02.pdb
+C:\Users\artur\source\repos\20211124_Kata_isbn_02\UnitTesting\bin\Debug\20211124_Kata_isbn_02.exe.config
+C:\Users\artur\source\repos\20211124_Kata_isbn_02\UnitTesting\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\artur\source\repos\20211124_Kata_isbn_02\UnitTesting\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\artur\source\repos\20211124_Kata_isbn_02\UnitTesting\obj\Debug\UnitTesting.csprojAssemblyReference.cache
+C:\Users\artur\source\repos\20211124_Kata_isbn_02\UnitTesting\obj\Debug\UnitTesting.csproj.CoreCompileInputs.cache
+C:\Users\artur\source\repos\20211124_Kata_isbn_02\UnitTesting\obj\Debug\UnitTesting.csproj.CopyComplete
+C:\Users\artur\source\repos\20211124_Kata_isbn_02\UnitTesting\obj\Debug\UnitTesting.dll
+C:\Users\artur\source\repos\20211124_Kata_isbn_02\UnitTesting\obj\Debug\UnitTesting.pdb

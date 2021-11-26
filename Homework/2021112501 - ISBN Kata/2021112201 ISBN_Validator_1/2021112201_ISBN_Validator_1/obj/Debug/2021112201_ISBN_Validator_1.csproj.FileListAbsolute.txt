@@ -1,0 +1,7 @@
+C:\Users\artur\source\repos\2021112201_ISBN_Validator_1\2021112201_ISBN_Validator_1\bin\Debug\2021112201_ISBN_Validator_1.exe.config
+C:\Users\artur\source\repos\2021112201_ISBN_Validator_1\2021112201_ISBN_Validator_1\bin\Debug\2021112201_ISBN_Validator_1.exe
+C:\Users\artur\source\repos\2021112201_ISBN_Validator_1\2021112201_ISBN_Validator_1\bin\Debug\2021112201_ISBN_Validator_1.pdb
+C:\Users\artur\source\repos\2021112201_ISBN_Validator_1\2021112201_ISBN_Validator_1\obj\Debug\2021112201_ISBN_Validator_1.csprojAssemblyReference.cache
+C:\Users\artur\source\repos\2021112201_ISBN_Validator_1\2021112201_ISBN_Validator_1\obj\Debug\2021112201_ISBN_Validator_1.csproj.CoreCompileInputs.cache
+C:\Users\artur\source\repos\2021112201_ISBN_Validator_1\2021112201_ISBN_Validator_1\obj\Debug\2021112201_ISBN_Validator_1.exe
+C:\Users\artur\source\repos\2021112201_ISBN_Validator_1\2021112201_ISBN_Validator_1\obj\Debug\2021112201_ISBN_Validator_1.pdb

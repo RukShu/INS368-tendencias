@@ -1,0 +1,7 @@
+C:\Users\artur\source\repos\20211125_Kata_ISBN_03\20211125_Kata_ISBN_03\bin\Debug\20211125_Kata_ISBN_03.exe.config
+C:\Users\artur\source\repos\20211125_Kata_ISBN_03\20211125_Kata_ISBN_03\bin\Debug\20211125_Kata_ISBN_03.exe
+C:\Users\artur\source\repos\20211125_Kata_ISBN_03\20211125_Kata_ISBN_03\bin\Debug\20211125_Kata_ISBN_03.pdb
+C:\Users\artur\source\repos\20211125_Kata_ISBN_03\20211125_Kata_ISBN_03\obj\Debug\20211125_Kata_ISBN_03.csprojAssemblyReference.cache
+C:\Users\artur\source\repos\20211125_Kata_ISBN_03\20211125_Kata_ISBN_03\obj\Debug\20211125_Kata_ISBN_03.csproj.CoreCompileInputs.cache
+C:\Users\artur\source\repos\20211125_Kata_ISBN_03\20211125_Kata_ISBN_03\obj\Debug\20211125_Kata_ISBN_03.exe
+C:\Users\artur\source\repos\20211125_Kata_ISBN_03\20211125_Kata_ISBN_03\obj\Debug\20211125_Kata_ISBN_03.pdb

@@ -1,0 +1,98 @@
+{
+  "version": 3,
+  "targets": {
+    "net5.0": {
+      "Temperature_Conversion_API_ins368s/0.1.0": {
+        "type": "package",
+        "compile": {
+          "lib/net5.0/Temperature Conversion API.dll": {}
+        },
+        "runtime": {
+          "lib/net5.0/Temperature Conversion API.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Temperature_Conversion_API_ins368s/0.1.0": {
+      "sha512": "/nVrJ3kpEO0RdY4aH9Tw0zr2xTzIT2e3hXVPZNvV1qW5ph6ldwK623XfBbSoMb367N9B7HFD1rBUa38+fJ43MA==",
+      "type": "package",
+      "path": "temperature_conversion_api_ins368s/0.1.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/net5.0/Temperature Conversion API.dll",
+        "temperature_conversion_api_ins368s.0.1.0.nupkg.sha512",
+        "temperature_conversion_api_ins368s.nuspec"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net5.0": [
+      "Temperature_Conversion_API_ins368s >= 0.1.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\artur\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\artur\\source\\repos\\Temperature-Console-APP\\Temperature-Console-APP\\Temperature-Console-APP.csproj",
+      "projectName": "Temperature-Console-APP",
+      "projectPath": "C:\\Users\\artur\\source\\repos\\Temperature-Console-APP\\Temperature-Console-APP\\Temperature-Console-APP.csproj",
+      "packagesPath": "C:\\Users\\artur\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\artur\\source\\repos\\Temperature-Console-APP\\Temperature-Console-APP\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\artur\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net5.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net5.0": {
+        "targetAlias": "net5.0",
+        "dependencies": {
+          "Temperature_Conversion_API_ins368s": {
+            "target": "Package",
+            "version": "[0.1.0, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

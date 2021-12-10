@@ -1,0 +1,18 @@
+C:\Users\artur\source\repos\Temperature-Console-APP\Temperature-Console-APP\bin\Debug\net5.0\Temperature-Console-APP.exe
+C:\Users\artur\source\repos\Temperature-Console-APP\Temperature-Console-APP\bin\Debug\net5.0\Temperature-Console-APP.deps.json
+C:\Users\artur\source\repos\Temperature-Console-APP\Temperature-Console-APP\bin\Debug\net5.0\Temperature-Console-APP.runtimeconfig.json
+C:\Users\artur\source\repos\Temperature-Console-APP\Temperature-Console-APP\bin\Debug\net5.0\Temperature-Console-APP.runtimeconfig.dev.json
+C:\Users\artur\source\repos\Temperature-Console-APP\Temperature-Console-APP\bin\Debug\net5.0\Temperature-Console-APP.dll
+C:\Users\artur\source\repos\Temperature-Console-APP\Temperature-Console-APP\bin\Debug\net5.0\ref\Temperature-Console-APP.dll
+C:\Users\artur\source\repos\Temperature-Console-APP\Temperature-Console-APP\bin\Debug\net5.0\Temperature-Console-APP.pdb
+C:\Users\artur\source\repos\Temperature-Console-APP\Temperature-Console-APP\bin\Debug\net5.0\Temperature Conversion API.dll
+C:\Users\artur\source\repos\Temperature-Console-APP\Temperature-Console-APP\obj\Debug\net5.0\Temperature-Console-APP.csprojAssemblyReference.cache
+C:\Users\artur\source\repos\Temperature-Console-APP\Temperature-Console-APP\obj\Debug\net5.0\Temperature-Console-APP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\artur\source\repos\Temperature-Console-APP\Temperature-Console-APP\obj\Debug\net5.0\Temperature-Console-APP.AssemblyInfoInputs.cache
+C:\Users\artur\source\repos\Temperature-Console-APP\Temperature-Console-APP\obj\Debug\net5.0\Temperature-Console-APP.AssemblyInfo.cs
+C:\Users\artur\source\repos\Temperature-Console-APP\Temperature-Console-APP\obj\Debug\net5.0\Temperature-Console-APP.csproj.CoreCompileInputs.cache
+C:\Users\artur\source\repos\Temperature-Console-APP\Temperature-Console-APP\obj\Debug\net5.0\Temperature-Console-APP.csproj.CopyComplete
+C:\Users\artur\source\repos\Temperature-Console-APP\Temperature-Console-APP\obj\Debug\net5.0\Temperature-Console-APP.dll
+C:\Users\artur\source\repos\Temperature-Console-APP\Temperature-Console-APP\obj\Debug\net5.0\ref\Temperature-Console-APP.dll
+C:\Users\artur\source\repos\Temperature-Console-APP\Temperature-Console-APP\obj\Debug\net5.0\Temperature-Console-APP.pdb
+C:\Users\artur\source\repos\Temperature-Console-APP\Temperature-Console-APP\obj\Debug\net5.0\Temperature-Console-APP.genruntimeconfig.cache

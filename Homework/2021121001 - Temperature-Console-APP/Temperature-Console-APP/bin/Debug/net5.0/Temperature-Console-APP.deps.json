@@ -1,0 +1,41 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Temperature-Console-APP/1.0.0": {
+        "dependencies": {
+          "Temperature_Conversion_API_ins368s": "0.1.0"
+        },
+        "runtime": {
+          "Temperature-Console-APP.dll": {}
+        }
+      },
+      "Temperature_Conversion_API_ins368s/0.1.0": {
+        "runtime": {
+          "lib/net5.0/Temperature Conversion API.dll": {
+            "assemblyVersion": "0.1.0.0",
+            "fileVersion": "0.1.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Temperature-Console-APP/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Temperature_Conversion_API_ins368s/0.1.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-/nVrJ3kpEO0RdY4aH9Tw0zr2xTzIT2e3hXVPZNvV1qW5ph6ldwK623XfBbSoMb367N9B7HFD1rBUa38+fJ43MA==",
+      "path": "temperature_conversion_api_ins368s/0.1.0",
+      "hashPath": "temperature_conversion_api_ins368s.0.1.0.nupkg.sha512"
+    }
+  }
+}
